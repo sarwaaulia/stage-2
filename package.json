@@ -1,5 +1,5 @@
 {
-  "name": "checkpoint-1",
+  "name": "checkpoint-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,10 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
-  },
-  "devDependencies": {
     "@types/express": "^5.0.5",
+    "@types/node": "^24.10.0",
+    "express": "^5.1.0",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"
   }
